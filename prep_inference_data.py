@@ -3,7 +3,7 @@ import subprocess
 
 input_dir = 'raw_inference_data'
 output_dir = 'inference_data'
-target_dimension = [620, 460]
+target_dimension = [608, 448]
 
 def main():
 
